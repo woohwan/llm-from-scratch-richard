@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 # model
 **/*.pth
+**/gpt2
 
 # C extensions
 *.so
